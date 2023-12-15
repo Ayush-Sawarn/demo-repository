@@ -1,3 +1,3 @@
-This is my first repository.
+This is my first Repository.
 <br>
-Made by Ayush Sawarn.# demo-repository
+Made by Ayush Sawarn.
